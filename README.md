@@ -1,2 +1,14 @@
-# -My_website
-Welcome to my portfolio! I am a passionate software developer dedicated to building clean, functional, and responsive web applications. I specialize in core technologies like Python, HTML, and CSS, with a focus on writing practical code and creating seamless user experiences.
+# Personal portfolio website
+
+Open `index.html` in a browser to view your portfolio.
+
+## Make it yours
+
+Open `index.html` in a text editor and replace:
+
+- `YOUR NAME` with your real name.
+- `your@email.com` with your email address.
+- The three `#` social links with your Instagram, WhatsApp, and LinkedIn links.
+- The project text with your real work as you build it.
+
+Later, you can publish this site online with a hosting service and share the link with clients.
